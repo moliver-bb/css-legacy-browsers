@@ -30,7 +30,7 @@ if (typeof document != 'undefined') {
 
 /**
  * Test if a property and value are supported by legacy browser, returns supported legacy property and value with vendor
- * prefix if required. Returns original property and value if not supported.
+ * prefix if required. Returns original property and value if already supported. Returns false if not supported.
  *
  * @param {String} property
  * @param {String} value
