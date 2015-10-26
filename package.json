@@ -1,0 +1,34 @@
+{
+  "name": "css-legacy-browsers",
+  "version": "0.1.0",
+  "description": "CSS legacy browser detection and styling features testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://github.com/moliver-bb/css-legacy-browsers.git"
+  },
+  "keywords": [
+    "css",
+    "legacy",
+    "browsers",
+    "styles",
+    "test"
+  ],
+  "author": "Matt Oliver <msoliver@pacbell.net>",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "devDependencies": {
+    "browserify": "6.0.3"
+  },
+  "bugs": {
+    "url": "https://github.com/moliver-bb/css-legacy-browsers/issues"
+  },
+  "homepage": "https://github.com/moliver-bb/css-legacy-browsers#readme"
+}
