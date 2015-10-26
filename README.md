@@ -1,5 +1,5 @@
 # css-legacy-browsers
-CSS legacy browser support detection and property testing. Provides a list of proprietary legacy browser properties that can be matched to current styles.
+CSS legacy browser support detection and property testing. Provides a list of proprietary legacy browser properties that can be matched to current styles (ie: display: flex ---> display: -ms-flexbox)
 
 ## uses
 ```javascript
