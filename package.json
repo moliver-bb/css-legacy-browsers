@@ -1,6 +1,6 @@
 {
   "name": "css-legacy-browsers",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "CSS legacy browser detection and styling features testing",
   "main": "index.js",
   "scripts": {
